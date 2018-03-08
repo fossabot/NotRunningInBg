@@ -1,4 +1,6 @@
 # Not "Running in the background"
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLvWind%2FNotRunningInBg.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLvWind%2FNotRunningInBg?ref=badge_shield)
+
 
 <a href='https://play.google.com/store/apps/details?id=com.lvwind.notrunninginbg&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="150"/></a>
 
@@ -19,3 +21,7 @@ However, [NotificationListenerService](https://developer.android.com/reference/a
 3. Start the service and manually snooze the "Running in the background" notification once. The app will keep it snoozed afterwards.
 ![](https://raw.githubusercontent.com/LvWind/NotRunningInBg/master/app/src/main/res/drawable/step1.png)
 ![](https://raw.githubusercontent.com/LvWind/NotRunningInBg/master/app/src/main/res/drawable/step2.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLvWind%2FNotRunningInBg.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLvWind%2FNotRunningInBg?ref=badge_large)
